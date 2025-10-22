@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import math
-#Mide la cantidad delitros necesarios para pintar una pared
+#Mide la cantidad de litros necesarios para pintar una pared
 area=float(input("¿Cuantos metros cuadrados mide su pared? "))
 pintura_necesaria=float(input("¿Cuantos metros cuadrados se pueden cubrir con un litro de pintura? "))
 litros=area/pintura_necesaria
