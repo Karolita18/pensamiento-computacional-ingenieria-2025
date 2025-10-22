@@ -1,6 +1,6 @@
 # 🖥️ Pensamiento Computacional para Ingeniería 🖥️
 ### 1er Semestre 2025 | Ingeniería en Ciencia de Datos y Matemáticas
-###Instituto Tecnológico y de Estudios Superiores de Monterrey
+###**Instituto Tecnológico y de Estudios Superiores de Monterrey**
 
 ![Estado](https://img.shields.io/badge/Estado-🟡_En_Desarrollo-yellow)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
@@ -8,9 +8,9 @@
 
 ## 👾 Contenido 👾
 
-| Tarea | Nombre | 
-|--------|--------|
-| **01. - Programas Utilizando Funciones Predefinidas**|
+| Tarea |  
+|--------|
+| **01.  Programas Utilizando Funciones Predefinidas**|
 | **02. - Problemas que Utilizan Funciones**|
 | **03. - Problemas de Repaso**|
 | **04. - Programas que Utilizan listas**| 
